@@ -1,4 +1,4 @@
-//This is code to add two numbers
+//This is code to sub two numbers
 
 #include<iostream>
 using namespace std;
@@ -6,7 +6,7 @@ int main(){
     int a = 6;
     int b = 4;
 
-    cout<<"Sum of a and b is: "<<a+b<<endl;
+    cout<<"Sum of a and b is: "<<a-b<<endl;
 
     return 0;
 }
